@@ -8,5 +8,5 @@
 
 ## Notes
 
-> **Note**
+> [!NOTE]  
 > Please refer to the [Wiki](https://github.com/eddiehe99/high-school-physics-simulations/wiki) for notes.
